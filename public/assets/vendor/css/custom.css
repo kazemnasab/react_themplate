@@ -1,0 +1,12 @@
+.MuiDataGrid-main,.css-204u17-MuiDataGrid-main,
+.css-1e2bxag-MuiDataGrid-root{
+    font-family: inherit !important;
+}
+
+.MuiInputBase-root, .MuiOutlinedInput-root, .MuiInputBase-colorPrimary, .MuiInputBase-formControl, .MuiInputBase-adornedEnd, .css-o9k5xi-MuiInputBase-root-MuiOutlinedInput-root{
+    height:38px !important;
+}
+
+button, input, div, select, option, span, label, p{
+    font-family: inherit !important;
+}
